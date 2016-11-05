@@ -1,0 +1,333 @@
+body
+{
+background-image:url(../images/backgorund.jpg);
+margin:0 auto;
+}
+h2
+{
+	color:#990000;
+}
+h4
+{
+	color:#0000FF;
+}
+#a
+{
+	border:px solid green;
+	width:1000px;
+	height:auto;
+	margin:0 auto;
+}
+#aa
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:135px;
+	background-image:url(../images/new_heder.jpg);
+	float:left;
+}
+#ab
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:40px;
+	background-image:url(../images/page_bg.jpg);
+	float:left;
+	margin:0px;
+	padding:0px;
+	
+}
+#ab a
+{
+	font-weight:bold;
+}
+#ada p
+{
+	color:white;
+	margin:0 auto;
+	padding:8px;
+}
+
+#div
+{
+	border:solid red 0px;
+	height:auto;
+	width:250px;
+	float:left;
+	margin:0px; 0px; 20px; 0px;
+}
+#ac
+{
+	border:0px solid #ccc;
+	width:222px;
+	height:390px;
+	background-image:url(../images/left.jpg);
+	float:left;
+	
+}
+#n
+{
+	border:0px solid #ccc;
+	width:202px;
+	height:200px;
+	float:left;
+	background-image:url(../images/to.jpg);
+	padding:20px 0px 0px 20px;
+	text-align:left;
+}
+#f
+{
+	border:0px solid #ccc;
+	width:222px;
+	height:402px;
+	float:left;
+	background-image:url(../images/face.jpg);
+}
+#a1
+{
+	border:0px solid #ccc;
+	width:210px;
+	height:180px;
+	float:right;
+	margin:0px 0px 20px 0px;
+	
+}
+#a11
+{
+	border:0px solid #ccc;
+	width:210px;
+	height:25px;
+	background-image:url(../images/rt.jpg);
+	background-color:#333;
+	float:left;
+	text-align:center;
+	
+}
+#a12,#a22
+{
+	border:0px solid #ccc;
+	width:210px;
+	height:180px;	
+	background-image:url(../images/rb.jpg);
+	float:left;
+	padding:0px 0px 0px 0px;
+	font-size:15px;
+	text-align:center;
+
+}
+#a13,#a23,#a33
+{
+	border:0px solid #ccc;
+	width:210px;
+	height:10px;	
+	background-image:url(../images/side_tel.gif);
+	float:left;
+}
+#a2
+{
+	border:1px solid #ccc;
+	width:210px;
+	height:170px;
+	float:right;
+	margin:50px 0px 20px 0px;
+	
+	
+}
+#a3
+{
+	border:0px solid #ccc;
+	width:210px;
+	height:auto;
+	float:right;
+	margin:60px 0px 20px 0px;
+}
+#a32 img
+{
+	height:300px;
+}
+#a21,#a31
+{
+	border:0px solid #ccc;
+	width:210px;
+	height:auto;
+	background-image:url(../images/rt.jpg);
+	text-align:center;
+}
+#a32
+{
+	border:0px solid #ccc;
+	width:210px;
+	height:205px;	
+	background-image:url(../images/boro.jpg);
+	float:left;
+	font-size:15px;	
+}
+#ad
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:280px;
+	background-image:url(../images/backgorund.jpg);
+	float:left;
+	font-size:18px;
+}
+#paa
+{
+	border:0px solid #ccc;
+	width:210px;
+	height:auto;
+	float:right;
+	margin:20px 0px 10px 0px;
+}
+#pa
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:auto;
+	float:left;
+	margin:20px 10px;
+}
+#ada
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:40px;
+	background-image:url(../images/flash_top_photogallary.jpg);
+	
+}
+#adb
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:215px;	
+}
+#adc
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:25px;
+	background-image:url(../images/flash_bptom.jpg);
+
+}
+#p
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:720px;
+	float:left;
+	text-align:justify;
+	font-size:17px;
+	line-height:1.7em;
+	
+}
+#a12 a:hover,#n a:hover
+{
+	background-image:none;
+}
+#adb img
+{
+	width:500px;
+	height:215px;
+}
+#ae
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:20px;
+	background-color:#388AC2;
+	float:left;
+}
+#af
+{
+	border:0px solid #ccc;
+	width:10px;
+	height:500px;
+	background-color:#3383BE;
+	float:right;
+}
+#a12 a
+{
+	color:blue;
+}
+#p a
+{
+	color:#3789C1;
+	background-image:none;
+}
+#ac a
+{
+	color:#003333;
+}
+a
+{
+	color:white;
+	text-decoration:none;
+}
+a:active
+{
+	color:#99FFCC;
+}
+a:hover
+{
+	text-decoration:underline;
+	color:#99FFCC;
+	background-image:url(../images/2.jpg);
+}
+
+#ab li
+{
+	width:auto;
+	float:left;
+	list-style-position:inside;
+	padding:0px;
+	margin:10px;
+	list-style-type:none;
+	text-align:center;	
+}
+
+#bot
+{
+	border:0px solid red;
+	width:1000px;
+	height:25px;
+	float:left;
+	background-color:#C6D6FD;
+	
+}
+ul
+{
+	margin:0px;
+	padding:0px;
+}
+
+li:hover
+{
+	text-decoration:underline;
+	color:#99FFCC;
+}
+#a32 p
+{
+text-align:center;
+padding:0px;
+}
+#ac ul
+{
+	margin:0px;
+	padding:0px;
+}
+#ac li a
+{
+	display:block;
+	padding:10px 0px 10px 10px;
+}
+#ac li
+{
+	width:auto;
+	padding:0px;	
+	font-size:17px;
+	border-bottom:solid;
+	border-bottom-color:#3183BD;
+	border-bottom-width:3px;
+	color:#003333;	
+	list-style-type:none;	
+}

@@ -1,0 +1,200 @@
+body
+{
+background-image:url(../images/backgorund.jpg);
+margin:0px;
+}
+h2
+{
+	color:#990000;
+}
+#a
+{
+	border:0px solid green;
+	width:1000px;
+	height:710px;
+	margin:0 auto;
+}
+#aa
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:135px;
+	background-image:url(../images/new_heder.jpg);
+	float:left;
+}
+#ab
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:40px;
+	background-image:url(../images/page_bg.jpg);
+	float:left;
+	margin:0px;
+	padding:0px;
+	
+}
+#ab ul ul
+{
+	background-color:#3995C8;
+	display:none;
+	position:absolute;
+	width:auto;
+}
+
+
+#ab li li a:hover
+{
+ color:red;
+ background-image:url(../images/2.jpg);
+ background-image:blue;
+}
+#ac
+{
+	border:0px solid #ccc;
+	width:222px;
+	height:500px;
+	background-image:url(../images/left.jpg);
+	float:left;	
+}
+#ad
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:415px;
+	background-image:url(../images/backgorund.jpg);
+	float:left;
+	margin:30px 50px 30px 70px;
+}
+#ada
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:40px;
+}
+#adb
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:350px;	
+}
+#adb a
+{
+	background-image:none;
+	color:#3B9ACA;
+}
+#adb li
+{
+	background-color:none;
+	margin:0px;
+	padding:0px;
+	list-style-position:inside;
+}
+#adb a:hover
+{
+	color:none;
+	border-bottom:solid;
+	text-decoration:none;
+}
+#adb a:active
+{
+	color:#3C9BCB;
+	text-decoration:none;
+}
+
+#adb ul
+{
+	margin:0px;
+	padding:0px;
+	float:left;
+}
+#adc
+{
+	border:0px solid #ccc;
+	width:500px;
+	height:25px;
+
+
+}
+#ae
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:20px;
+	background-color:#388AC2;
+	float:left;
+}
+#af
+{
+	border:0px solid #ccc;
+	width:10px;
+	height:500px;
+	background-color:#3383BE;
+	float:right;
+}
+#ac a
+{
+	color:#003333;
+}
+a
+{
+	color:white;
+	text-decoration:none;
+}
+a:active
+{
+	color:#99FFCC;
+}
+a:hover
+{
+	text-decoration:underline;
+	color:#99FFCC;
+	background-image:url(../images/2.jpg);
+}
+#ac a
+{
+	display:block;
+	padding:10px;
+}
+
+#ab li
+{
+	width:auto;
+	float:left;
+	list-style-position:inside;
+	padding:0px;
+	margin:12px;
+	list-style-type:none;
+	color:#003333;
+
+	
+}
+#ada li
+{
+	width:auto;
+	float:left;
+	list-style-position:inside;
+	padding:0px;
+	margin:10px;
+	list-style-type:none;
+	color:#003333;
+	
+}
+ul
+{
+	margin:0px;
+	padding:0px;
+	
+	
+}
+
+
+#ac li
+{
+	width:auto;
+	font-size:17px;
+	border-bottom:solid;
+	border-bottom-color:#3183BD;
+	border-bottom-width:3px;
+	list-style-type:none;
+	
+}

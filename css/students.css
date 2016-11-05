@@ -1,0 +1,174 @@
+body
+{
+background-image:url(../images/backgorund.jpg);
+margin:0 auto;
+}
+#a
+{
+	border:0px solid green;
+	width:1000px;
+	height:710px;
+	margin:0 auto;
+}
+#aa
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:135px;
+	background-image:url(../images/new_heder.jpg);
+	float:left;
+}
+#ab
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:40px;
+	background-image:url(../images/page_bg.jpg);
+	float:left;
+	margin:0px;
+	padding:0px;
+	
+}
+#ac
+{
+	border:0px solid #ccc;
+	width:222px;
+	height:500px;
+	background-image:url(../images/left.jpg);
+	float:left;
+	margin:0px;
+	padding:0px;
+	
+}
+#ad
+{
+	border:0px solid #ccc;
+	width:460px;
+	height:405px;
+	background-image:url(../images/backgorund.jpg);
+	float:left;
+	margin:30px 20px 30px 120px;
+}
+#ada
+{
+	border:0px solid #ccc;
+	width:460px;
+	height:40px;
+	background-image:url(../images/flash_top_photogallary.jpg);
+}
+#adb
+{
+	border:0px solid #ccc;
+	width:460px;
+	height:340px;
+	background-image:url(../images/indes_aop.jpg);
+	margin:0 auto;
+	
+
+	
+}
+#adb img
+{
+	width:140px;
+	height:100px;
+	border:1px sodid green;
+	align:center;
+	margin:0 auto;
+	padding:5px;
+}
+#adc
+{
+	border:0px solid #ccc;
+	width:460px;
+	height:25px;
+	background-image:url(../images/flash_bptom.jpg);
+
+}
+#ae
+{
+	border:0px solid #ccc;
+	width:1000px;
+	height:20px;
+	background-color:#388AC2;
+	float:left;
+}
+#af
+{
+	border:0px solid #ccc;
+	width:10px;
+	height:500px;
+	background-color:#3383BE;
+	float:right;
+}
+
+a
+{
+	color:white;
+	text-decoration:none;
+}
+a:active
+{
+	color:#99FFCC;
+}
+a:hover
+{
+	text-decoration:underline;
+	color:#99FFCC;
+	background-image:url(../images/2.jpg);
+}
+#ac a
+{
+	display:block;
+	color:#003333;
+	padding:10px;
+}
+
+#ab li
+{
+	width:auto;
+	float:left;
+	list-style-position:inside;
+	padding:0px;
+	margin:12px;
+	list-style-type:none;
+	color:#003333;
+	
+}
+#ada li
+{
+	width:auto;
+	float:left;
+	list-style-position:inside;
+	padding:0px;
+	margin:10px;
+	list-style-type:none;
+	color:#003333;
+	
+}
+ul
+{
+	margin:0px;
+	padding:0px;
+}
+
+li:hover
+{
+	text-decoration:underline;
+	color:#99FFCC;
+}
+#adb a:hover
+{
+	text-decoration:none;
+	background-image:none;
+}
+#ac li
+{
+	list-style-position:outside;
+	width:auto;
+	margin:0px;
+	font-size:17px;
+	border-bottom:solid;
+	border-bottom-color:#3183BD;
+	color:#003333;	
+	list-style-type:none;	
+}
